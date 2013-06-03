@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Remove medium.com from HN
+// @name        Remove medium.com from Hacker News
 // @namespace   http://github.com/rajbot
 // @description Hides links to medium.com
 // @include     https://news.ycombinator.com/
@@ -8,6 +8,7 @@
 // @include     https://news.ycombinator.com/x?*
 // @version     1
 // @grant       none
+// @downloadURL https://raw.github.com/rajbot/remove_medium/master/remove_medium.user.js
 // ==/UserScript==
 
 
