@@ -5,6 +5,6 @@ http://userscripts.org/scripts/show/169434
 Use this link: https://raw.github.com/rajbot/remove_medium/master/remove_medium.user.js
 
 ### To install in Chrome
-* Go to chrome://extensions/
 * Save remove_medium.user.js to your computer
+* Go to chrome://extensions/
 * Drag and Drop remove_medium.user.js onto your browser window
